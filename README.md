@@ -15,7 +15,7 @@
         </li>
         <br/>
         <li>
-        🌱 I’m currently learning: <strong>Vue3, Golang<strong>
+        🌱 I’m currently learning: <strong>Svelte, Golang<strong>
         </li>
         <br/>
         <li>
